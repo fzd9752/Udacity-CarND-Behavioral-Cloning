@@ -40,7 +40,7 @@ My project includes the following files:
 * writeup_report.md summarizing the results
 
 also, the project includes:
- * video_img.mp4 containing a autonomous driving video with _model.py_ and _model.h5_
+ * run.mp4 containing a autonomous driving video with _model.py_ and _model.h5_
  * model_personal_data.h5 containing trained convolution neural networks with my personal driving data
 
 ---

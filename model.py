@@ -139,5 +139,5 @@ history_object = model.fit_generator(train_generator, samples_per_epoch =
 model.save(modelname)
 	
 print("Testing...")
-test loss = model.evaluate(X_test, y_test, batch_size=1)
-print(test loss)
+test_loss = model.evaluate(X_test, y_test, batch_size=1)
+print(test_loss)
