@@ -4,7 +4,7 @@
 
 ---
 
-** Behavioral Cloning Project**
+**Behavioral Cloning Project**
 
 The goals / steps of this project are the following:
 
